@@ -1,0 +1,12 @@
+admin
+admin123
+root
+administrator
+supervisor
+guest
+tomcat
+user
+manager
+superuser
+ftp
+system
