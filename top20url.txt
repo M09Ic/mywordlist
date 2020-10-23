@@ -1,0 +1,6 @@
+api
+admin
+ui
+console
+env
+manager
