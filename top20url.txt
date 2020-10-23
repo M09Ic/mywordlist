@@ -4,3 +4,9 @@ ui
 console
 env
 manager
+jolokia
+cas/login
+user
+login
+.svn/
+.git/
