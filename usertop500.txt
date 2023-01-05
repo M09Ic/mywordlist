@@ -1,4 +1,8 @@
 admin
+sys
+000000
+sysadmin
+superadmin
 test
 test01
 test1
